@@ -1,3 +1,55 @@
+#EXTINF:-1,ESPN HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8707.ts
+#EXTINF:-1,ESPN 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8470.ts
+#EXTINF:-1,ESPN 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8469.ts
+#EXTINF:-1,SportsNet One HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7758.ts
+#EXTINF:-1,SportsNet One
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8175.ts
+#EXTINF:-1,SportNet 360
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8299.ts
+#EXTINF:-1,Fox Sports 1 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6213.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6214.ts
+#EXTINF:-1,FOX Sports Live 503 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7366.ts
+#EXTINF:-1,NBC SPORT
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6817.ts
+#EXTINF:-1,AFN SPORTS HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5917.ts
+#EXTINF:-1,AFN SPORTS
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5907.ts
+#EXTINF:-1,AFN SPORTS 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5906.ts
+#EXTINF:-1,NFL
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6812.ts
+#EXTINF:-1,NBA US HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4272.ts
+#EXTINF:-1,C MORE GOLF HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9795.ts
+#EXTINF:-1,NBC GOLF
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6829.ts
+#EXTINF:-1,Golf HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4767.ts
+#EXTINF:-1,NHL Network
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7418.ts
+#EXTINF:-1,Hockey
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5055.ts
+#EXTINF:-1,C More Hockey HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5052.ts
+#EXTINF:-1,C More Tennis
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5053.ts
+#EXTINF:-1,MTV Sport 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9486.ts
+#EXTINF:-1,MTV Sport 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9487.ts
+#EXTINF:-1,SPORT NR
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6940.ts
+#EXTINF:-1,Sport ( NO )
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5235.ts
 #EXTINF:-1,TSN 1
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2299.ts
 #EXTINF:-1,TSN 2
@@ -18,66 +70,16 @@ http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3878.ts
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3879.ts
 #EXTINF:-1,SportsNet World
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7824.ts
-#EXTINF:-1,SportsNet One HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7758.ts
-#EXTINF:-1,SportsNet One
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8175.ts
-#EXTINF:-1,SportNet 360
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8299.ts
-#EXTINF:-1,Fox Sports 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6213.ts
-#EXTINF:-1,Fox Sports 2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6214.ts
-#EXTINF:-1,ESPN HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8707.ts
-#EXTINF:-1,ESPN 1
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8470.ts
-#EXTINF:-1,ESPN 2
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8469.ts
 #EXTINF:-1,Eleven HD ( CTH )
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9134.ts
 #EXTINF:-1,Eleven Sports HD ( CTH )
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9133.ts
-#EXTINF:-1,Stadium 102 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9141.ts
-#EXTINF:-1,Stadium 103 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9140.ts
-#EXTINF:-1,Stadium 104 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9139.ts
-#EXTINF:-1,Stadium 105 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9138.ts
-#EXTINF:-1,Stadium 106 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9137.ts
-#EXTINF:-1,Stadium 107 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9136.ts
-#EXTINF:-1,Stadium 108 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9135.ts
 #EXTINF:-1,PAC12 Network HD
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8866.ts
 #EXTINF:-1,PAC12 Bay Area HD
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8869.ts
-#EXTINF:-1,NHL Network
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7418.ts
-#EXTINF:-1,NFL
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6812.ts
-#EXTINF:-1,NBC GOLF
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6829.ts
 #EXTINF:-1,PAG HD
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7416.ts
-#EXTINF:-1,FOX Motor Sports 7 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7365.ts
-#EXTINF:-1,FOX Sports Live 503 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7366.ts
-#EXTINF:-1,NBA US HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4272.ts
-#EXTINF:-1,NBC SPORT
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6817.ts
-#EXTINF:-1,AFN SPORTS HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5917.ts
-#EXTINF:-1,AFN SPORTS
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5907.ts
-#EXTINF:-1,AFN SPORTS 2
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5906.ts
 #EXTINF:-1,AFN SPECTRUM
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5898.ts
 #EXTINF:-1,AFN PRIME PACIFIC
@@ -90,30 +92,10 @@ http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9649.ts
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9650.ts
 #EXTINF:-1,SN PACIFIC HD
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9651.ts
-#EXTINF:-1,SN ONTARIO HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9652.ts
 #EXTINF:-1,SN ONE HD
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9653.ts
 #EXTINF:-1,SN EAST HD
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9654.ts
-#EXTINF:-1,NBC E.P.L XTRA 1 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5130.ts
-#EXTINF:-1,NBC E.P.L XTRA 2 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5129.ts
-#EXTINF:-1,NBC E.P.L XTRA 3 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5128.ts
-#EXTINF:-1,NBC E.P.L XTRA 4 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5127.ts
-#EXTINF:-1,NBC E.P.L XTRA 5 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5126.ts
-#EXTINF:-1,NBC E.P.L XTRA 6 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5125.ts
-#EXTINF:-1,NBC E.P.L XTRA 7 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5124.ts
-#EXTINF:-1,MTV Sport 1
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9486.ts
-#EXTINF:-1,MTV Sport 2
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9487.ts
 #EXTINF:-1,TV2 Sport Premium 1
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9488.ts
 #EXTINF:-1,TV2 Sport Premium 2
@@ -134,16 +116,6 @@ http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4974.ts
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4834.ts
 #EXTINF:-1,VIASAT SPORT EAST
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6939.ts
-#EXTINF:-1,VIASAT FOTBALL
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4969.ts
-#EXTINF:-1,Viasat Fotboll HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5056.ts
-#EXTINF:-1,Viasat Sport Baltic
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6267.ts
-#EXTINF:-1,C More Fotboll HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5450.ts
-#EXTINF:-1,C More Fotboll
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4772.ts
 #EXTINF:-1,C MORE SPORT HD
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1895.ts
 #EXTINF:-1,C More Live
@@ -154,27 +126,19 @@ http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7456.ts
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7448.ts
 #EXTINF:-1,C MORE LIVE 4
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7447.ts
-#EXTINF:-1,EUROSPORT 1 ( SE )
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9285.ts
-#EXTINF:-1,C More Tennis
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5053.ts
-#EXTINF:-1,C More Hockey HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5052.ts
-#EXTINF:-1,C MORE GOLF HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9795.ts
-#EXTINF:-1,SPORT NR
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6940.ts
-#EXTINF:-1,Sport ( NO )
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5235.ts
-#EXTINF:-1,Motor HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5054.ts
-#EXTINF:-1,Hockey
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5055.ts
-#EXTINF:-1,Golf HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4767.ts
-#EXTINF:-1,EUROSPORT 1
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4250.ts
-#EXTINF:-1,EUROSPORT 2
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6663.ts
 #EXTINF:-1,TV4 Sport HD ( se )
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3869.ts
+#EXTINF:-1,Stadium 102 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9141.ts
+#EXTINF:-1,Stadium 103 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9140.ts
+#EXTINF:-1,Stadium 104 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9139.ts
+#EXTINF:-1,Stadium 105 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9138.ts
+#EXTINF:-1,Stadium 106 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9137.ts
+#EXTINF:-1,Stadium 107 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9136.ts
+#EXTINF:-1,Stadium 108 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9135.ts
