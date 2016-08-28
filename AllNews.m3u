@@ -1,44 +1,30 @@
-#EXTINF:-1,USA: FOX
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8471.ts
-#EXTINF:-1,USA: Fox News
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6831.ts
-#EXTINF:-1,USA: ABC
+#EXTINF:-1,ABC
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8068.ts
-#EXTINF:-1,USA: PBS Plus
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6815.ts
-#EXTINF:-1,USA: BLOOMBERG
+#EXTINF:-1,BLOOMBERG
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7903.ts
-#EXTINF:-1,USA: CNN US
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6814.ts
-#EXTINF:-1,USA: CNBC
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3860.ts
-#EXTINF:-1,USA: CNBC HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7414.ts
-#EXTINF:-1,USA: CBSN US
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7820.ts
-#EXTINF:-1,USA: USA Network HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9659.ts
-#EXTINF:-1,USA: NBC HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9669.ts
-#EXTINF:-1,USA: CBS HD USA
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9668.ts
-#EXTINF:-1,CA: WORLD HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9648.ts
-#EXTINF:-1,CA: CBC HD
+#EXTINF:-1,CBC HD
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9656.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5130.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5129.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5128.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5127.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5126.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5125.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5124.ts
-#EXTINF:-1,VIASAT: FOX ( SE )
+#EXTINF:-1,CBS HD USA
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9668.ts
+#EXTINF:-1,CBSN US
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7820.ts
+#EXTINF:-1,CNBC
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3860.ts
+#EXTINF:-1,CNBC HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7414.ts
+#EXTINF:-1,CNN US
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6814.ts
+#EXTINF:-1,FOX
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8471.ts
+#EXTINF:-1,FOX ( SE )
 http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8458.ts
+#EXTINF:-1,Fox News
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6831.ts
+#EXTINF:-1,NBC HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9669.ts
+#EXTINF:-1,PBS Plus
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6815.ts
+#EXTINF:-1,USA Network HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9659.ts
+#EXTINF:-1,WORLD HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9648.ts
